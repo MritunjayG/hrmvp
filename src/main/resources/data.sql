@@ -1,0 +1,2 @@
+INSERT INTO HR_EMPLOYEE (id, login, name, salary, start_date) VALUES ('e9999', 'girimrit', 'Mritunjay Giri', 4000.00, '2015-10-12');
+INSERT INTO HR_EMPLOYEE (id, login, name, salary, start_date) VALUES ('e8888', 'ramanap', 'Ramana p', 5000.50, '2015-11-12');
